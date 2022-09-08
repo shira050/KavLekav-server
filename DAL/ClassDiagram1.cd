@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAL.models.CountingTbl">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>models\CountingTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.models.DBContext">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAQAYIAAAAAAAAAAAEAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>models\DBContext .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.models.KategoryTbl">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>models\KategoryTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.models.PictureTbl">
+    <Position X="4.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAUAAIAAQgAAQAAQAAEAAACAAAQCAAAAAAAAAAA=</HashCode>
+      <FileName>models\PictureTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.models.UserTbl">
+    <Position X="2.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAIAAEA=</HashCode>
+      <FileName>models\UserTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.KategoryDAL">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAABAAAAAAAAAACAAAAAEAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>KategoryDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.PictureDAL">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAgQAAAAAEAAAAAAAEACAgBAAAAAAAAAAIABA=</HashCode>
+      <FileName>PictureDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.UserDAL">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAAAAAEAABA=</HashCode>
+      <FileName>UserDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
