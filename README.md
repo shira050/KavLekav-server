@@ -79,16 +79,8 @@ This algorithm detects boundary points and the perimeter of the object in the im
 ### Example
 
 Include illustrative images and examples demonstrating the algorithm:
+![image](https://github.com/shira050/KavLekav-server/assets/98688678/aa1ef073-b0d1-4438-85b0-42dba3681777)
 
-1. **Original Image**:
-
-   ![Original Image](path/to/original_image.png)
-
-3. **Interest Points Detected**:
-   ![Interest Points](path/to/interest_points.png)
-
-4. **Boundary Detection**:
-   ![Boundary Detection](path/to/boundary_detection.png)
 
 ### Contributions
 
